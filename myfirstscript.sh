@@ -7,3 +7,5 @@ date
 df -h
 
 echo "Adding some new changes to myfeature-a branch"
+
+free -m
